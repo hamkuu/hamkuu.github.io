@@ -9,12 +9,13 @@ I have been working on web development for seven years, specializing in Python s
 ## Most Active Expertise
 
 - Domain-driven Design
-- Python 3.10, 3.11, 3.12, 3.13
+- Python 3.11, 3.12, 3.13
 - Django 4.2
 - Django REST framework 3.15
 - FastAPI 0.111
 - FastHTML 0.2
 - pytest 8.2
+- Vue 3
 
 ## Favorite Books Read ≥2 Times
 
@@ -24,6 +25,7 @@ I have been working on web development for seven years, specializing in Python s
 - [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann
 - [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by Vladik Khononov
 - [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
+- [Company Of One](https://www.goodreads.com/book/show/37570605-company-of-one) by Paul Jarvis
 
 ## Experienced Tech Stacks
 
@@ -37,3 +39,4 @@ I have been working on web development for seven years, specializing in Python s
   + CI/CD: Jenkins, CircleCI, GitHub Actions
 - Cloud Services: AWS, GCP
 - System Design: REST API, Distributed Architecture, OAuth2 & OIDC
+
